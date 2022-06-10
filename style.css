@@ -1,0 +1,49 @@
+body {
+    font-family: 'Smooch', cursive; 
+    background-color: plum;
+}
+
+
+.header_div {
+    background-color:lavender;
+    color: purple;
+    
+}
+h2{
+    font-size: 50px;
+}
+
+.header_div p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cadetblue;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+    width: 130px;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkblue;
+    bottom:0 ;
+    width: 100%;
+    font-size: 18px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: rgb(102, 102, 102);
+
+}
+
+h3,h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
